@@ -6,3 +6,4 @@ The goal of this project is to provide insights into currency valuation trends a
 
 Outcomes
 The analysis revealed that the Swiss Franc was consistently the most overvalued currency over the past 20 years, while the South African Rand was the most undervalued. The study also found that reinvesting annually in the most overvalued currency yielded the highest gains from 2000-2020.
+
